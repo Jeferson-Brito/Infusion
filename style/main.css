@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: 1.5;
 }
 
@@ -56,7 +56,7 @@ img{
 .header__nav a {
     text-decoration: none;
     text-transform: uppercase;
-    color: #586165;
+    color: #7e7e7e;
     font-size: 14px;
     font-weight: 600;
     display: block;
