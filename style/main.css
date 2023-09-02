@@ -206,15 +206,10 @@ img{
 }
 
 
-
-
 .people-cards{
     margin-top: 2.5em;
 }
 
-.people-cards__card{
-    
-}
 .people-cards__card:hover{
     outline: 5px solid #63c6ae;
     outline-offset: -5px;
